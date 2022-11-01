@@ -37,9 +37,9 @@
 
 ### :fire: My Stats :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dineshbabuvaddineni&theme=onedark)](https://github.com/Shubham3023/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dineshbabuvaddineni&theme=onedark)](https://github.com/dineshbabuvaddineni/github-profile-trophy)
 
-![Shubham Verma's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshbabuvaddineni&show_icons=true&theme=radical)
+![Dinesh Babu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshbabuvaddineni&show_icons=true&theme=radical)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dineshbabuvaddineni&theme=dark&background=000000)
 
