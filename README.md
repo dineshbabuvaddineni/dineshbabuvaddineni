@@ -24,7 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/dinesh-babu-vaddineni-11b746147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh-babu-vaddineni-11b746147/" height="30" width="40" /></a>
+<a href="https://lnkd.in/gfPhvjMR">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <a href="https://instagram.com/dinesh_babu_vaddineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinesh_babu_vaddineni" height="30" width="40" /></a>
 </p>
 
