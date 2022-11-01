@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Babu</h1>
-<h3 align="center">I am Data Science Enthusiast with B.Tech In Mechanical Engineering From India.</h3>
+<h3 align="center">I am a Data Science Enthusiast with B.Tech In Mechanical Engineering From India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshbabuvaddineni&label=Profile%20views&color=0e75b6&style=flat" alt="dineshbabuvaddineni" /> </p>
 
