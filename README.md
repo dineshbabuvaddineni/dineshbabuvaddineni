@@ -11,13 +11,13 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Full stack Data Science from ineuron.ai**
 
-- 💬 Ask me about **Python, Statistics**
+- 💬 Ask me about **Python, Statistics, Machine learning**
 
 - 📫 How to reach me **dineshbabuvaddineni@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am very much interested in Python coding because of its easiness,not only this interested in exploring the concepts related to AI.**
 
 ---
 
