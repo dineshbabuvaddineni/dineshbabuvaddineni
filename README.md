@@ -2,7 +2,7 @@
 <h3 align="center">I am a Data Science Enthusiast with B.Tech In Mechanical Engineering From India.</h3>
 </h1>
 <div align="center">
-  <img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" alt="Computer man" width="600" height="300"/>
+<img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" alt="Computer man" width="600" height="300"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshbabuvaddineni&label=Profile%20views&color=0e75b6&style=flat" alt="dineshbabuvaddineni" /> </p>
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **dineshbabuvaddineni@gmail.com**
 
-- ⚡ Fun fact **I think I am very much interested in Python coding because of its easiness, not only this interested in exploring the concepts related to AI.**
+- ⚡ Fun fact **I am very much interested in ML, DL, NLP, CV, AI, Generative AI**
 
 ---
 
