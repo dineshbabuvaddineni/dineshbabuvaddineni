@@ -11,15 +11,15 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning **Full stack Data Science from ineuron.ai**
+- 🌱 I’m currently Working for Infosys as Software Quality Enineer**
 
-- 💬 Ask me about **Python, Statistics, Machine learning**
+- 💬 Ask me about **Jav, Selenium, TestNG, Cucumber, Maven, Git ,Jenkins, Docker, AWS,Agile**
   
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/dineshbabuvaddineni?tab=repositories)
 
 - 📫 How to reach me **dineshbabuvaddineni@gmail.com**
 
-- ⚡ Fun fact **I am very much interested in ML, DL, NLP, CV, AI, Generative AI**
+- ⚡ Fun fact **I am very much interested in Delivering Defect Free Application to the clients.**
 
 ---
 
