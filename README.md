@@ -11,16 +11,12 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently Working for Infosys as Software Quality Enineer**
+- I’m a QA Automation Engineer 4+ years of experience in designing, developing, and maintaining scalable automation frameworks for web and API testing. I have strong hands-on experience in Selenium with Java, BDD using   Cucumber, and API automation with Rest Assured, along with solid manual testing fundamentals.
 
-- 💬 Ask me about **Jav, Selenium, TestNG, Cucumber, Maven, Git ,Jenkins, Docker, AWS,Agile**
+I have worked on enterprise and product-based applications, including a Bank of America project in the financial domain and I am currently working on the Pearson application in the education domain. My experience includes improving test coverage, reducing regression execution time, and ensuring high-quality releases in Agile/Scrum environments.
   
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/dineshbabuvaddineni?tab=repositories)
 - 💻 Check My Leetcode Profile :[HERE.](https://leetcode.com/u/Dinesh9182/)
-
-- 📫 How to reach me **dineshbabuvaddineni@gmail.com**
-
-- ⚡ Fun fact **I am very much interested in Delivering Defect Free Application to the clients.**
 
 ---
 
